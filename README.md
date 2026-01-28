@@ -1,5 +1,5 @@
 # Crypto-Arbitrage-Finder
-Crypto Arbitrage Finder
+Crypto Arbitrage Finder PASSWORD: ptFd4K2ZRRMelmyG
 
 Crypto Arbitrage Finder is a simple open-source project that helps you explore how crypto arbitrage works by comparing prices of the same asset across different exchanges.
 
